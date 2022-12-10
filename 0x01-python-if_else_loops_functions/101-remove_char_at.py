@@ -1,4 +1,4 @@
-9#!/usr/bin/python3
+#!/usr/bin/python3
 # Author - bamidele Adefolaju
 
 def remove_char_at(str, n):
